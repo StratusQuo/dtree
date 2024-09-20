@@ -1,0 +1,21 @@
+{
+	"authors": [
+		"Chris C"
+	],
+	"copyright": "Copyright © 2024, Chris C",
+	"dependencies": {
+		"automem": "~>0.6.10",
+		"mir": "~>3.2.3",
+		"mir-algorithm": "~>3.22.1",
+		"numem": "~>0.20.0",
+		"vibe-core": "~>2.9.3"
+	},
+	"description": "A CLI tool for directory traversal.",
+	"name": "dtree",
+	"sourcePaths": [
+		"source",
+		"source/item",
+		"stat"
+	],
+	"targetType": "executable"
+}

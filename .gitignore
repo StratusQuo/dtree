@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/treecraft_d
+treecraft_d.so
+treecraft_d.dylib
+treecraft_d.dll
+treecraft_d.a
+treecraft_d.lib
+treecraft_d-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
